@@ -9,8 +9,6 @@
 
 - 📫 Cómo contactarme: **alonso.casas@pucp.edu.pe**
 
-- ⚡ Dato curioso: **Pienso que soy una persona dedicada y entusiasta por aprender nuevas tecnologías.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alonsocasas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alonsocasas" height="30" width="40" /></a>
