@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Me llamo Alonso Casas</h1>
 <h3 align="center">Soy un estudiante de Ingeniería Informática, apasionado por las diferentes tecnologías.</h3>
 
-- 🔭 Estoy en busqueda de alguna práctica preprofesional de: **backend o fronted developer, data analytics y/o analista de sistema de información**
+- 🔭 Estoy en busqueda de alguna práctica preprofesional de: **Backend/Fronted developer, data analytics y/o analista de sistema de información**
 
-- 🌱 Actualmente aprendiendo backend y frontend **java, c#, MySQL**
+- 🌱 Actualmente aprendiendo Backend y Frontend **java, c#, MySQL**
 
-- 💬 Preguntame acerca de: **c++, c, SQL, Python**
+- 💬 Preguntame acerca de: **C++, C, SQL, Python**
 
 - 📫 Cómo contactarme: **alonso.casas@pucp.edu.pe**
 
