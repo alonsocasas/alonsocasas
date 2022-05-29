@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Alonso Casas</h1>
 <h3 align="center">Soy un estudiante de Ingeniería Informática, apasionado por las diferentes tecnologías.</h3>
 
-- 🔭 Estoy en busqueda de alguna práctica profesional de: **developer, data analytics o analista de sistema de información**
+- 🔭 Estoy en busqueda de alguna práctica preprofesional de: **developer, data analytics o analista de sistema de información**
 
 - 🌱 Actualmente aprendiendo backend y frontend **java, c#, MySQL**
 
