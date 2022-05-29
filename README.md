@@ -3,7 +3,7 @@
 
 - 🔭 Estoy en busqueda de alguna práctica preprofesional de: **Backend/Fronted developer, data analytics y/o analista de sistema de información**
 
-- 🌱 Actualmente aprendiendo Backend y Frontend **java, c#, MySQL**
+- 🌱 Actualmente aprendiendo Backend y Frontend: **java, c#, MySQL**
 
 - 💬 Preguntame acerca de: **C++, C, SQL, Python**
 
