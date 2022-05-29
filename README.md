@@ -5,11 +5,11 @@
 
 - 🌱 Actualmente aprendiendo backend y frontend **java, c#, MySQL**
 
-- 💬 Ask me about **c++, c, SQL, Python**
+- 💬 Preguntame acerca de: **c++, c, SQL, Python**
 
-- 📫 How to reach me **alonso.casas@pucp.edu.pe**
+- 📫 Cómo contactarme: **alonso.casas@pucp.edu.pe**
 
-- ⚡ Dato curioso **Pienso que soy una persona dedicada y entusiasta por aprender nuevas tecnologías.**
+- ⚡ Dato curioso: **Pienso que soy una persona dedicada y entusiasta por aprender nuevas tecnologías.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
