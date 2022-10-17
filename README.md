@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Alonso Casas</h1>
 <h3 align="center">Soy un estudiante de Ingeniería Informática, apasionado por las diferentes tecnologías.</h3>
 
-- 🔭 Intereses: **software developer Y data analytics**
+- 🔭 Intereses: **software developer y data analytics**
 
 - 🌱 Actualmente aprendiendo Backend y Frontend: **java, c#, MySQL**
 
